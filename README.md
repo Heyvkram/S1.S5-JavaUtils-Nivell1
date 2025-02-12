@@ -1,4 +1,6 @@
-# SPRINT 1 TASK 5 - Java Utils lvl 1
+# IT ACADEMY BACKEND JAVA SPECIALIZATION
+
+## SPRINT 1 TASK 5 - Java Utils lvl 1
 
 ## Summary
 These exercises expand on the core concepts of the sprint and explore file system interaction and object serialization.
